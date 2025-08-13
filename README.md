@@ -34,29 +34,13 @@
 ---
 
 
- ### 🔐 Step 2: Get Your Session ID
+### 🔐 Étape 2 : Générer une SESSION ID
 
-Authenticate using **one** of the methods below to generate your `Session ID`.
+📌 **Conserve la Session-ID dans un endroit sécurisé.** 
 
-<p align="center">
-  <img src="https://files.catbox.moe/x8ga7j.jpeg">" alt="Authentication Flow Preview" />
-</p>
-
-📌 **Conserve la Session-ID dans un endroit sécurisé.** -
-
-> 🟢 Pair Code Authentication
-
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://new-session-x1e9.onrender.com/pair)
-
-> 🔵 QR Code Authentication
-
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com/qr)
-
-
-
-#### 🧩 Session App
-
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com)
+[![Obtenir SESSION-ID](https://img.shields.io/badge/Obtenir%20SESSION--ID1-0A0A0A?style=for-the-badge&logo=key&logoColor=white)](https://premier-armadillo-ovl-02d9d108.koyeb.app/)  
+[![Obtenir SESSION-ID](https://img.shields.io/badge/Obtenir%20SESSION--ID2-0A0A0A?style=for-the-badge&logo=key&logoColor=white)](https://ruling-alma-ahc-ec8ca560.koyeb.app/)  
+[![Obtenir SESSION-ID](https://img.shields.io/badge/Obtenir%20SESSION--ID3-0A0A0A?style=for-the-badge&logo=key&logoColor=white)](https://shivering-lizzy-fatao177-3ee3096c.koyeb.app/)
 
 
 ### 🗄️ Étape 3 : Créer une base de données  

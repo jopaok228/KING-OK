@@ -1,7 +1,7 @@
 <h1 align="center">KING-OK</h1>
 
 <p align="center">
-    <img alt="KING-OK" src="https://files.catbox.moe/rdfqwy.jpeg">
+    <img alt="KING-OK" src="https://files.catbox.moe/x8ga7j.jpeg">
 </p>
 
 <p align="center">

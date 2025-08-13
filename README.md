@@ -33,9 +33,31 @@
 
 ---
 
-### 🔐 Étape 2 : Générer une SESSION ID
+
+ ### 🔐 Step 2: Get Your Session ID
+
+Authenticate using **one** of the methods below to generate your `Session ID`.
+
+<p align="center">
+  <img src="https://files.catbox.moe/x8ga7j.jpeg">" alt="Authentication Flow Preview" />
+</p>
 
 📌 **Conserve la Session-ID dans un endroit sécurisé.** -
+
+> 🟢 Pair Code Authentication
+
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://new-session-x1e9.onrender.com/pair)
+
+> 🔵 QR Code Authentication
+
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com/qr)
+
+
+
+#### 🧩 Session App
+
+[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com)
+
 
 ### 🗄️ Étape 3 : Créer une base de données  
 [![Créer Base de Données](https://img.shields.io/badge/Supabase-Base%20de%20donn%C3%A9es-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
